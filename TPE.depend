@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1693872786 source:c:\users\federico\documents\unicen\algoritmos ii\tpe_2023\tpe\main.cpp
+	<iostream>
+	<fstream>
+
+1700838183 source:c:\users\tinch\onedrive\documentos\facultad\ayda 2\tpe\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+	<string>
+	"Grafo.h"
+
+1696538835 c:\users\tinch\onedrive\documentos\facultad\ayda 2\tpe\include\aeropuertos.h
+
+1700838343 c:\users\tinch\onedrive\documentos\facultad\ayda 2\tpe\include\grafo.h
+	<map>
+	<vector>
+	<string>
+	<list>
+	<Reservas.h>
+
+1696537909 c:\users\tinch\onedrive\documentos\facultad\ayda 2\tpe\include\vuelos.h
+	<iostream>
+	<list>
+	<map>
+
+1696541093 c:\users\tinch\onedrive\documentos\facultad\ayda 2\tpe\include\aeropuerto.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<map>
+	<string>
+
+1696538866 source:c:\users\tinch\onedrive\documentos\facultad\ayda 2\tpe\src\aeropuerto.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<map>
+	<string>
+
+1698213269 c:\users\tinch\onedrive\documentos\facultad\ayda 2\tpe\include\reservas.h
+	<string>
+	<iostream>
+	<map>
+

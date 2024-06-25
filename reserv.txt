@@ -1,0 +1,3 @@
+Origen: , Destino: , Aerolínea: , Reservados: 0
+Origen: John F. Kennedy, Destino: Ministro Pistarini, Aerolínea: United Airlines, Reservados: 20
+Origen: John F. Kennedy, Destino: Ministro Pistarini, Aerolínea: Delta, Reservados: 152

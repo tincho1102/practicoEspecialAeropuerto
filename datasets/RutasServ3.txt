@@ -1,0 +1,4 @@
+John F. Kennedy,Ministro Pistarini,8535.74,0,{United Airlines-96,Delta-152,LATAM-210,Aerolineas-276,Avianca-250,}
+Ministro Pistarini,Pucon,1291.71,0,{United Airlines-120,}
+Pucon,Armando Tola,1232.04,0,{United Airlines-100,}
+Armando Tola,John F. Kennedy,10137.15,0,{United Airlines-146,}

@@ -1,0 +1,11 @@
+John F. Kennedy,Ministro Pistarini,United Airlines,20
+John F. Kennedy,Ministro Pistarini,Delta,152
+Tocumen,Madrid-Barajas,United Airlines,96
+Westchester,Logan,United Airlines,126
+Tancredo Neves,Logan,United Airlines,18
+Silvio Pettirosi,Armando Tola,Aerolineas,15
+Comodoro Benitez,El prat,Delta,80
+Jorge Chavez,Pucon,LATAM,100
+Pucon,Humberto Delgado,LATAM,120
+Pucon,Humberto Delgado,Delta,10
+El prat,Madrid-Barajas,Avianca,40
